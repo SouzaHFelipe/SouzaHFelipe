@@ -2,6 +2,8 @@ Felipe H Souza
 
 Estudante com foco na area Front-end
 
+Aprendendo algo novo todos os dias
+
 
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaHFelipe&theme=dark&show_icons=true)
