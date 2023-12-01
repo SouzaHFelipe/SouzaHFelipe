@@ -4,7 +4,6 @@
 
 Estudante com foco na area Front-end
 
-Aprendendo algo novo todos os dias
 
 Foco Em :
 
