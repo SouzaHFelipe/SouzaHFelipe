@@ -46,11 +46,6 @@ No momento estou trabalhando na area como analista de suporte , mais um dia vou 
  <img height="50"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
  <img height="50"  width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
-
-<BR> <p>
-          
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaHFelipe&theme=dark&show_icons=true) <BR> 
 
 
 # LinkedIn 
