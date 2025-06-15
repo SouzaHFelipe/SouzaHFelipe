@@ -25,7 +25,7 @@ Foco Em :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaHFelipe&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" url="https://www.linkedin.com/in/felipe-henrique-de-souza/" />
+<img height="50"  width="50" url="https://www.linkedin.com/in/felipe-henrique-de-souza/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  />
 
 
 
