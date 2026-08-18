@@ -1,4 +1,10 @@
-<p align="left">Sou Formado em Análise e Desenvolvimento de Sistemas, possuo experiência em suporte a usuários e sistemas, atuando na identificação e resolução de incidentes técnicos. Tenho conhecimento em ambientes Windows e Linux, além de experiência com sistemas corporativos como SAP, Senior e KMM, e no uso de ferramentas e serviços em nuvem.</p>
+<p align="left">Sou formado em Análise e Desenvolvimento de Sistemas e atuo na área de Tecnologia, com experiência em Suporte, Cloud e Desenvolvimento.
+
+Tenho experiência com suporte a usuários, infraestrutura, ambientes Windows resolução de incidentes. Na área de Cloud, sou 2x AWS Certified e venho aprofundando meus conhecimentos em AWS e serviços de nuvem.
+
+Também desenvolvo projetos utilizando Python buscando unir desenvolvimento, automação, infraestrutura e Cloud para resolver problemas de forma prática.
+
+Meu foco é continuar evoluindo nessas áreas!</p>
 
 
 
